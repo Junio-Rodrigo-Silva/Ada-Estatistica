@@ -1,2 +1,2 @@
-# Ada-Estatistica
+# Ada-Estatística
 Projeto de Análise Exploratória de Dados
